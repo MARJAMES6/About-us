@@ -187,7 +187,7 @@
 
 
 <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary">
-  <div class="container-fluid">
+
     <a class="navbar-brand" href="#" id = "cursive-font">
         <img src="https://scontent.fmnl13-2.fna.fbcdn.net/v/t39.30808-6/473323255_615808724731924_7155071190871621807_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHfMmOPDsXsS7QeoKrHTVmu-qDUsJmosX76oNSwmaixfhu26vdfrnqZIJ2MS3X-nStxwog3At2lcpjc6EF9_91z&_nc_ohc=FBKIPsSIgzYQ7kNvgHChSRU&_nc_zt=23&_nc_ht=scontent.fmnl13-2.fna&_nc_gid=A_xireLzy2hCFkIYjjuGmUR&oh=00_AYC5LeEIW3LGNJIIbtNxgZ_cLCXCSQa5KOEDDl-66KYkTA&oe=6787F358" alt="Logo" width="60" height="54" class="d-inline-block">
         Café de realeza</a>
